@@ -1,0 +1,10 @@
+C:\Users\ikmik\Desktop\zein\zein\obj\Debug\zein.csprojAssemblyReference.cache
+C:\Users\ikmik\Desktop\zein\zein\obj\Debug\zein.Properties.Resources.resources
+C:\Users\ikmik\Desktop\zein\zein\obj\Debug\zein.csproj.GenerateResource.cache
+C:\Users\ikmik\Desktop\zein\zein\obj\Debug\zein.csproj.CoreCompileInputs.cache
+C:\Users\ikmik\Desktop\zein\zein\obj\Debug\zein.Form1.resources
+C:\Users\ikmik\Desktop\zein\zein\bin\Debug\zein.exe.config
+C:\Users\ikmik\Desktop\zein\zein\bin\Debug\zein.exe
+C:\Users\ikmik\Desktop\zein\zein\bin\Debug\zein.pdb
+C:\Users\ikmik\Desktop\zein\zein\obj\Debug\zein.exe
+C:\Users\ikmik\Desktop\zein\zein\obj\Debug\zein.pdb
